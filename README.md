@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ally_s_application1
 
 Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
@@ -121,3 +122,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <a href=https://discord.gg/UPhCetBkVu"><img src="https://user-images.githubusercontent.com/47489894/183043664-b01aac56-0372-458a-bde9-3f2a6bded21b.png" width="60" alt="DhiWise Discord"></a>
 
 <a href="https://docs.dhiwise.com/docs/react/intro"><img src="https://global-uploads.webflow.com/618e36726d3c0f19c9284e56/62383865d5477f2e4f6b6e2e_main-monogram-p-500.png" width="60" alt="DhiWise Documentation"></a>
+=======
+# Real-Estate-Dashboard
+>>>>>>> 735cd5b183fe59837ae50bf77f59b5b921a62839
